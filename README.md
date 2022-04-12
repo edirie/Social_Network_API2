@@ -11,6 +11,10 @@ Run following commands to install required packages:
 * npm i mongoose
 * npm start/ node server.js - Run this command to start an application execution.
 
+## Demo Video Link
+  Part 1 - https://drive.google.com/file/d/1MeDWogII-zXO6cHeNg417lqJHVdybrKA/view?usp=sharing
+  Part 2 - https://drive.google.com/file/d/1MeDWogII-zXO6cHeNg417lqJHVdybrKA/view?usp=sharing
+
 ## API routes
 * User API routes  
   get - api/users - to get all users  
